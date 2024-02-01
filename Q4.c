@@ -21,20 +21,3 @@ int main()
 
 
 
-// #include<stdio.h>
-// int main()
-// {
-//     int num1,num2,hcf=0;
-//     printf("printf number co-prime or not\n Enter two number=");
-//     scanf("%d%d",&num1,&num2);
-//     int smv=num1<num2?num1:num2;
-//     for(int i=1;i<=smv;i++)
-//     {
-//         if((num1%i==0)&&(num2%i==0))
-//         {
-//              hcf=i;
-          
-//         }
-//     }
-//     printf("HCF=%d",hcf);
-// }
